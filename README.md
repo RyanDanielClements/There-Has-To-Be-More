@@ -1,2 +1,4 @@
-# There-Has-To-Be-More
-A book about Church
+# There Has To Be More
+#### *by Ryan Clements*
+
+## Chapter 1
