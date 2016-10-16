@@ -1,5 +1,4 @@
-### There Has To Be More
-##### *by Ryan Clements*
+# There Has To Be More
 
 ### Chapter 1-
 
